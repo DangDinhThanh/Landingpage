@@ -167,21 +167,40 @@
     position: absolute;
     width: 193px;
     height: 48px;
-    left: 334px;
-    top: 481px;
+    left: 345px;
+    top: 624px;
     background: rgba(255, 255, 255, 0.1);
     border: 2px solid #0C3050;
     box-sizing: border-box;
     border-radius: 50px;
+
+}
+
+.search_bar  content{
+    position: absolute;
+    width: 105px;
+    height: 24px;
+    left: 24px;
+    top: 8px;
     font-family: SVN-Gilroy;
+    font-style: normal;
+    font-weight: bold;
     font-size: 16px;
-    text-align: center;
+    line-height: 24px;
+    color: #0C3050;
+
 }
 
 .search_bar img {
     position: relative;
-    width: 17px;
-    height: 17px;
+    Width: 23px;
+    Height: 23px;
+    right: -60px;
+    top: 2px;
+    color: #0C3050;
+
+
+
 }
 
 .cloud1 {
